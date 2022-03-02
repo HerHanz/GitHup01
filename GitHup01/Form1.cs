@@ -23,8 +23,10 @@ namespace GitHup01
             int y = int.Parse(textBox2.Text);
             double soucet = x + y;
             double rozdil = x - y;
+            double soucin = x * y;
             MessageBox.Show("Soucet je Lmao " + soucet);
             MessageBox.Show("Rozdil " + rozdil);
+            MessageBox.Show("Soucin " + soucin);
 
 
 
