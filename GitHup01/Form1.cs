@@ -24,9 +24,11 @@ namespace GitHup01
             double soucet = x + y;
             double rozdil = x - y;
             double soucin = x * y;
+            double podil = x / y;
             MessageBox.Show("Soucet je Lmao " + soucet);
             MessageBox.Show("Rozdil " + rozdil);
             MessageBox.Show("Soucin " + soucin);
+            MessageBox.Show("Podil " + podil);
 
 
 
