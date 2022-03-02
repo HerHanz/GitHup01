@@ -22,7 +22,7 @@ namespace GitHup01
             int x = int.Parse(textBox1.Text);
             int y = int.Parse(textBox2.Text);
             double soucet = x + y;
-            MessageBox.Show("Soucet je " + soucet);
+            MessageBox.Show("Soucet je Lmao " + soucet);
 
         }
     }
